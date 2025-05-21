@@ -23,7 +23,7 @@
 
 🧠 Specialized in **Machine Learning**, **Control Systems**,  and **Robotics**
 
-📊 Skilled in building programming, simulation, and ML algorithms 
+📊 Skilled in programming, simulation, and ML applications
 
 ---
 
