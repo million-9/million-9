@@ -56,36 +56,62 @@
 
 ## 🎯 Academic Projects
 
-### 📌 Bi-directional Portable Charger for Electric Vehicles  
+## 🎯 Academic Projects
+
+<details>
+<summary><strong>📌 Bi-directional Portable Charger for Electric Vehicles</strong></summary>
+
 - Designed bidirectional EV charger supporting G2V, V2G, and V2V  
 - Utilized LLC resonant converter with Totem-Pole PFC  
 - Enabled integration with three-phase AC and 400V DC systems  
 - **Tools:** MATLAB/Simulink
 
-### 📌 Arduino-based Paralyzed Patient Assist Device  
+</details>
+
+<details>
+<summary><strong>📌 Arduino-based Paralyzed Patient Assist Device</strong></summary>
+
 - GSM/WiFi system for real-time health monitoring and emergency alerts  
 - Remote control via mobile app with zero data loss in cloud sync  
 - **Tools:** Arduino, ThingSpeak, Java, C++
 
-### 📌 Design and Simulation of Battery-Based Electric Vehicle and Charging Station  
+</details>
+
+<details>
+<summary><strong>📌 Design and Simulation of Battery-Based Electric Vehicle and Charging Station</strong></summary>
+
 - EV and regenerative braking system with lithium-ion battery  
 - SOC tracking and dynamic drive-cycle simulation  
 - **Tools:** MATLAB/Simulink
 
-### 📌 IoT-Based Cargo Tracking System with GSM/GPS Integration  
+</details>
+
+<details>
+<summary><strong>📌 IoT-Based Cargo Tracking System with GSM/GPS Integration</strong></summary>
+
 - Live tracking with alerts and web dashboard using cloud platforms  
 - Real-time map updates and asset geolocation  
 - **Tools:** Arduino, Node-RED, Proteus, JavaScript
 
-### 📌 Brain Tumor Detection Using Neural Networks  
+</details>
+
+<details>
+<summary><strong>📌 Brain Tumor Detection Using Neural Networks</strong></summary>
+
 - Image classifier for grayscale MRI scans  
 - Preprocessing, feature extraction, supervised learning pipeline  
 - **Tools:** MATLAB, Neural Network Toolbox
 
-### 📌 Smart Plant Pot – Automatic Irrigation System  
+</details>
+
+<details>
+<summary><strong>📌 Smart Plant Pot – Automatic Irrigation System</strong></summary>
+
 - Soil moisture-based irrigation control with minimal cost  
 - Effective prototype using microcontroller and water pump  
 - **Tools:** Arduino IDE, Sensors, C++
+
+</details>
 
 ---
 
