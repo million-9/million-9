@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Mohamed Musthafa PK</h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD5&width=500&center=true&lines=Automate+Everything+%F0%9F%A4%96;Master's+Student+in+Electromobility;Major+in+AI+%26+Epowertrain;Robotics+%7C+Control+Systems+%7C+ML;Automate+Everything+%F0%9F%A4%96" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD5&width=500&center=true&lines=Automate+Everything+%F0%9F%A4%96;Master's+Student+in+Electromobility;Major+in+AI+%26+Epowertrain;Robotics+%7C+Control+Systems+%7C+ML" />
 </p>
 
 <p align="center">
