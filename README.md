@@ -17,10 +17,10 @@
 
 ## 🌟 About Me
 
-🎓 M.Sc. student in **Electromobility (ACES)** at FAU Erlangen-Nürnberg  
-🤖 Focusing on **AI**, **Control Systems**, and **Robotics**  
-🚗 Experience in **smart mobility**, **automation**, and **machine learning**  
-🧠 Passionate about solving real-world engineering problems through data-driven approaches
+🎓 Master’s student in **Electromobility** at FAU Erlangen-Nürnberg 
+🤖 Major In **AI & Autonomous Driving** and **E-Powertrain**
+🧠 Specialized in **Machine Learning**, **Control Systems**,  and **Robotics**    
+📊 Skilled in building programming, simulation, and ML algorithms 
 
 ---
 
