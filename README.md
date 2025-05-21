@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Mohamed Musthafa PK</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD5&width=500&center=true&lines=Master's+Student+in+Electromobility;Robotics+%7C+Control+Systems+%7C+AI;Intelligent+Automation+Engineer+%F0%9F%A4%96;Learning+%26+Innovation+Driven+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD5&width=500&center=true&lines=Master's+Student+in+Electromobility;Robotics+%7C+Control+Systems+%7C+AI;Learning+%26+Automation+Focused+Engineer+%F0%9F%94%A5;Innovator+in+Smart+System+Design" />
 </p>
 
 <p align="center">
@@ -17,52 +17,74 @@
 
 ## 🌟 About Me
 
-🎓 **Master’s student** in Electromobility (ACES) at FAU Erlangen-Nürnberg  
-🤖 Specializing in **Control Systems**, **AI**, and **Robotics**  
-🚀 Passionate about **autonomous systems**, **intelligent automation**, and data-driven modeling  
-🧠 Combining systems engineering with machine learning for smarter, adaptive technology
+🎓 M.Sc. student in **Electromobility (ACES)** at FAU Erlangen-Nürnberg  
+🤖 Focusing on **AI**, **Control Systems**, and **Robotics**  
+🚗 Experience in **smart mobility**, **automation**, and **machine learning**  
+🧠 Passionate about solving real-world engineering problems through data-driven approaches
 
 ---
 
-## 🧠 Tech Toolbox
+## 📘 Master's Thesis
 
-### 🗣️ Languages & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-
-### 🧠 Libraries & Frameworks
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch)
-![scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras)
+### 📌 *Analyzing Local Models for Robotic Manipulation of Deformable Linear Objects*  
+📍 Chair of Automatic Control, FAU Erlangen (Nov 2024 – Apr 2025)  
+- Developed an adaptive path planning algorithm for robotic cable manipulation  
+- Achieved **99.51% accuracy** in multi-contact routing scenarios  
+- Utilized simulation environment (SOFA) to validate model robustness  
+- **Tools:** Python, SOFA, scipy, NumPy, Matplotlib, Numba
 
 ---
 
-## 📌 Projects
+## 🧰 Technical Stack
 
-### 🤖 Adaptive Robotic Cable Manipulation  
-🔍 **Data-driven path planner** for robotic manipulation tasks  
-🎯 Achieved **99.51% accuracy** on multi-contact routing  
-🧰 Tools: Python, SOFA, NumPy, Numba
+### 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?logo=mathworks)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
-### 🔋 Bi-directional EV Charger  
-⚡ Designed G2V, V2G, and V2V power converter  
-🔌 Smart grid-ready design with efficient SOC control  
-🛠️ MATLAB/Simulink
+### 🧠 ML Libraries
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
 
-### 🌍 IoT Cargo Tracker  
-📦 GSM/GPS live asset tracking with web dashboard  
-🛰️ Real-time alerts and cloud data flow  
-🛠️ Node-RED, Arduino, Cloud, JavaScript
+---
 
-### 🧠 Brain Tumor Detection via MRI  
-🧬 Built a neural network for grayscale image classification  
-🖼️ Used preprocessing + segmentation for robust output  
-🛠️ MATLAB Neural Network Toolbox
+## 🎯 Academic Projects
+
+### 📌 Bi-directional Portable Charger for Electric Vehicles  
+- Designed bidirectional EV charger supporting G2V, V2G, and V2V  
+- Utilized LLC resonant converter with Totem-Pole PFC  
+- Enabled integration with three-phase AC and 400V DC systems  
+- **Tools:** MATLAB/Simulink
+
+### 📌 Arduino-based Paralyzed Patient Assist Device  
+- GSM/WiFi system for real-time health monitoring and emergency alerts  
+- Remote control via mobile app with zero data loss in cloud sync  
+- **Tools:** Arduino, ThingSpeak, Java, C++
+
+### 📌 Design and Simulation of Battery-Based Electric Vehicle and Charging Station  
+- EV and regenerative braking system with lithium-ion battery  
+- SOC tracking and dynamic drive-cycle simulation  
+- **Tools:** MATLAB/Simulink
+
+### 📌 IoT-Based Cargo Tracking System with GSM/GPS Integration  
+- Live tracking with alerts and web dashboard using cloud platforms  
+- Real-time map updates and asset geolocation  
+- **Tools:** Arduino, Node-RED, Proteus, JavaScript
+
+### 📌 Brain Tumor Detection Using Neural Networks  
+- Image classifier for grayscale MRI scans  
+- Preprocessing, feature extraction, supervised learning pipeline  
+- **Tools:** MATLAB, Neural Network Toolbox
+
+### 📌 Smart Plant Pot – Automatic Irrigation System  
+- Soil moisture-based irrigation control with minimal cost  
+- Effective prototype using microcontroller and water pump  
+- **Tools:** Arduino IDE, Sensors, C++
 
 ---
 
@@ -71,25 +93,26 @@
 <details>
 <summary><strong>CDCE Robotics – Industrial Automation Intern</strong></summary>
 
-- Developed PLC-based automation with HMI integrations  
-- Built a computer vision poka-yoke system with **100% test accuracy**  
+- Programmed PLCs using ladder logic  
+- Integrated HMI, sensors, and relays in automation systems  
+- Built computer vision poka-yoke system with **100% test precision**  
 </details>
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Timeline |
-|--------|-------------|----------|
-| **M.Sc, Electromobility (ACES)** | FAU Erlangen-Nürnberg | 2023–Present |
-| **B.Tech, Electrical & Electronics** | VIT Chennai | 2018–2022 |
+| Degree | Institution | Years |
+|--------|-------------|--------|
+| **M.Sc. Electromobility (ACES)** | FAU Erlangen-Nürnberg | 2023–Present |
+| **B.Tech Electrical & Electronics** | VIT Chennai | 2018–2022 |
 
 ---
 
-## 🏅 Certifications
+## 📜 Certifications
 
-- 🎖️ **Industrial Automation** – CDCE Robotics (2020)  
-- 📘 **MATLAB Controller Tuning** – VIT (2022)
+- 🏅 Industrial Automation – CDCE Robotics (2020)  
+- 🎓 MATLAB Controller Tuning – VIT (2022)
 
 ---
 
@@ -100,9 +123,10 @@
 
 ---
 
-## ✨ Motto
-> “Strive not to be a success, but rather to be of value.” – *Albert Einstein*
+## 💬 Motto
+
+> *"Strive not to be a success, but rather to be of value." – Albert Einstein*
 
 ---
 
-<p align="center">⭐ If my work resonates with you, consider starring my repos or reaching out!</p>
+<p align="center">🌟 Let's collaborate! Feel free to connect or star my repositories.</p>
