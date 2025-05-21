@@ -56,8 +56,6 @@
 
 ## 🎯 Academic Projects
 
-## 🎯 Academic Projects
-
 <details>
 <summary><strong>📌 Bi-directional Portable Charger for Electric Vehicles</strong></summary>
 
