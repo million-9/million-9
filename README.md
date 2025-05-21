@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Mohamed Musthafa PK</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD5&width=500&center=true&lines=Master's+Student+in+Electromobility;Robotics+%7C+Control+Systems+%7C+AI;Innovation+Driven+%F0%9F%92%AA;Engineer+with+a+Vision+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD5&width=500&center=true&lines=Master's+Student+in+Electromobility;Robotics+%7C+Control+Systems+%7C+AI;Intelligent+Automation+Engineer+%F0%9F%A4%96;Learning+%26+Innovation+Driven+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 
 ## 🌟 About Me
 
-🎓 **Master's student** in Electromobility at FAU Erlangen-Nürnberg  
-🤖 Focused on **Robotics**, **AI**, and **Control Systems**  
-🔌 Enthusiastic about embedded systems, real-time automation, and machine intelligence  
-🛠 Currently building **adaptive robotic systems** and **EV infrastructure solutions**
+🎓 **Master’s student** in Electromobility (ACES) at FAU Erlangen-Nürnberg  
+🤖 Specializing in **Control Systems**, **AI**, and **Robotics**  
+🚀 Passionate about **autonomous systems**, **intelligent automation**, and data-driven modeling  
+🧠 Combining systems engineering with machine learning for smarter, adaptive technology
 
 ---
 
@@ -44,24 +44,25 @@
 
 ## 📌 Projects
 
-### 🧩 Adaptive Robotic Cable Manipulation  
+### 🤖 Adaptive Robotic Cable Manipulation  
 🔍 **Data-driven path planner** for robotic manipulation tasks  
 🎯 Achieved **99.51% accuracy** on multi-contact routing  
 🧰 Tools: Python, SOFA, NumPy, Numba
 
 ### 🔋 Bi-directional EV Charger  
 ⚡ Designed G2V, V2G, and V2V power converter  
-🔌 Enabled smart microgrid integration and power flow control  
+🔌 Smart grid-ready design with efficient SOC control  
 🛠️ MATLAB/Simulink
 
 ### 🌍 IoT Cargo Tracker  
-📦 GSM/GPS enabled live tracking dashboard  
-🛰️ Real-time geolocation + alerts  
+📦 GSM/GPS live asset tracking with web dashboard  
+🛰️ Real-time alerts and cloud data flow  
 🛠️ Node-RED, Arduino, Cloud, JavaScript
 
 ### 🧠 Brain Tumor Detection via MRI  
-🧬 Neural network-based classification  
-🖼️ Accurate segmentation using MATLAB toolbox
+🧬 Built a neural network for grayscale image classification  
+🖼️ Used preprocessing + segmentation for robust output  
+🛠️ MATLAB Neural Network Toolbox
 
 ---
 
@@ -70,8 +71,8 @@
 <details>
 <summary><strong>CDCE Robotics – Industrial Automation Intern</strong></summary>
 
-- Programmed **PLCs + HMIs** for real-time factory systems  
-- Built vision-based poka-yoke with **100% accuracy**  
+- Developed PLC-based automation with HMI integrations  
+- Built a computer vision poka-yoke system with **100% test accuracy**  
 </details>
 
 ---
@@ -88,7 +89,7 @@
 ## 🏅 Certifications
 
 - 🎖️ **Industrial Automation** – CDCE Robotics (2020)  
-- 📘 **Controller Tuning in MATLAB** – VIT (2022)
+- 📘 **MATLAB Controller Tuning** – VIT (2022)
 
 ---
 
@@ -104,4 +105,4 @@
 
 ---
 
-<p align="center">⭐ If you like my work, consider starring my repositories and let's connect!</p>
+<p align="center">⭐ If my work resonates with you, consider starring my repos or reaching out!</p>
