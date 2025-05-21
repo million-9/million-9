@@ -23,16 +23,6 @@
 🧠 Passionate about solving real-world engineering problems through data-driven approaches
 
 ---
-
-## 📘 Master's Thesis
-
-### 📌 *Analyzing Local Models for Robotic Manipulation of Deformable Linear Objects*  
-📍 Chair of Automatic Control, FAU Erlangen (Nov 2024 – Apr 2025)  
-- Developed an adaptive path planning algorithm for robotic cable manipulation  
-- Achieved **99.51% accuracy** in multi-contact routing scenarios  
-- Utilized simulation environment (SOFA) to validate model robustness  
-- **Tools:** Python, SOFA, scipy, NumPy, Matplotlib, Numba
-
 ---
 
 ## 🧰 Technical Stack
@@ -52,6 +42,14 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
 
 ---
+## 📘 Master's Thesis
+
+### 📌 *Analyzing Local Models for Robotic Manipulation of Deformable Linear Objects*  
+📍 Chair of Automatic Control, FAU Erlangen (Nov 2024 – Apr 2025)  
+- Developed an adaptive path planning algorithm for robotic cable manipulation  
+- Achieved **99.51% accuracy** in multi-contact routing scenarios  
+- Utilized simulation environment (SOFA) to validate model robustness  
+- **Tools:** Python, SOFA, scipy, NumPy, Matplotlib, Numba
 
 ## 🎯 Academic Projects
 
