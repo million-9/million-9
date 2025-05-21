@@ -23,7 +23,6 @@
 🧠 Passionate about solving real-world engineering problems through data-driven approaches
 
 ---
----
 
 ## 🧰 Technical Stack
 
@@ -42,7 +41,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
 
 ---
-## 📘 Master's Thesis
+## 📘 Project Thesis
 
 ### 📌 *Analyzing Local Models for Robotic Manipulation of Deformable Linear Objects*  
 📍 Chair of Automatic Control, FAU Erlangen (Nov 2024 – Apr 2025)  
@@ -50,6 +49,7 @@
 - Achieved **99.51% accuracy** in multi-contact routing scenarios  
 - Utilized simulation environment (SOFA) to validate model robustness  
 - **Tools:** Python, SOFA, scipy, NumPy, Matplotlib, Numba
+---
 
 ## 🎯 Academic Projects
 
