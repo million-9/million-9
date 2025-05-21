@@ -17,7 +17,7 @@
 
 ## 🌟 About Me
 
-🎓 Master’s student in **Electromobility** at FAU Erlangen-Nürnberg 
+🎓 Master’s student in **Electromobility** at FAU Erlangen-Nürnberg
 🤖 Major In **AI & Autonomous Driving** and **E-Powertrain**
 🧠 Specialized in **Machine Learning**, **Control Systems**,  and **Robotics**    
 📊 Skilled in building programming, simulation, and ML algorithms 
